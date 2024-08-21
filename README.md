@@ -1,0 +1,1 @@
+Story Stream is an advanced blog application developed to provide a seamless and engaging platform for content creation and consumption. Utilizing Spring Boot for backend services and React for a dynamic frontend, Story Stream delivers a robust and user-friendly blogging experience.
